@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Color"</Description>
+      <LastState Value="5.5821133476379E18" RealAddress="362B1BA0480"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>000000</Color>
+      <VariableType>Double</VariableType>
+      <Address>"pepflashplayer.dll"+01CAF5C0</Address>
+      <Offsets>
+        <Offset>50</Offset>
+        <Offset>20</Offset>
+        <Offset>F50</Offset>
+        <Offset>28</Offset>
+        <Offset>D8</Offset>
+        <Offset>20</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>174</Key>
+          </Keys>
+          <Value>372321452356436337</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>97</Key>
+          </Keys>
+          <Value>999999999</Value>
+          <Description>Red</Description>
+          <ID>1</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>98</Key>
+          </Keys>
+          <Value>12345678910</Value>
+          <Description>Light Red</Description>
+          <ID>2</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>99</Key>
+          </Keys>
+          <Value>99999999999999</Value>
+          <Description>Ice Blue</Description>
+          <ID>3</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>100</Key>
+          </Keys>
+          <Value>7.4471183337595E17</Value>
+          <Description>Cyan</Description>
+          <ID>4</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>101</Key>
+          </Keys>
+          <Value>2.60530534543734E18</Value>
+          <Description>Brown</Description>
+          <ID>5</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>102</Key>
+          </Keys>
+          <Value>2.9773585169566E18</Value>
+          <Description>Pink</Description>
+          <ID>6</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>103</Key>
+          </Keys>
+          <Value>5.2057676827238E18</Value>
+          <Description>Alien Green</Description>
+          <ID>7</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>104</Key>
+          </Keys>
+          <Value>5.58263231712621E18</Value>
+          <Description>Orange</Description>
+          <ID>8</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys/>
+          <Description>Pink</Description>
+          <ID>9</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Shadow"</Description>
+      <LastState Value="9999" RealAddress="362B1BA0494"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"pepflashplayer.dll"+01CB68B0</Address>
+      <Offsets>
+        <Offset>64</Offset>
+        <Offset>0</Offset>
+        <Offset>120</Offset>
+        <Offset>260</Offset>
+        <Offset>D8</Offset>
+        <Offset>F0</Offset>
+        <Offset>C0</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>17</Key>
+            <Key>73</Key>
+          </Keys>
+          <Value>0</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>17</Key>
+            <Key>86</Key>
+          </Keys>
+          <Value>9999</Value>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"pointerscan result"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"pepflashplayer.dll"+01CAF5C0</Address>
+      <Offsets>
+        <Offset>B98</Offset>
+        <Offset>10</Offset>
+        <Offset>90</Offset>
+        <Offset>200</Offset>
+        <Offset>128</Offset>
+        <Offset>178</Offset>
+        <Offset>38</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>30</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Double</VariableType>
+      <Address>"pepflashplayer.dll"+01CAF5C0</Address>
+      <Offsets>
+        <Offset>3D8</Offset>
+        <Offset>10</Offset>
+        <Offset>100</Offset>
+        <Offset>1A0</Offset>
+        <Offset>148</Offset>
+        <Offset>178</Offset>
+        <Offset>38</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>41</ID>
+      <Description>"Color"</Description>
+      <LastState Value="5.85193735584407E18" RealAddress="41F25B953D8"/>
+      <VariableType>Double</VariableType>
+      <Address>"pepflashplayer.dll"+01CB69C0</Address>
+      <Offsets>
+        <Offset>3D8</Offset>
+        <Offset>10</Offset>
+        <Offset>278</Offset>
+        <Offset>30</Offset>
+        <Offset>1C0</Offset>
+        <Offset>298</Offset>
+        <Offset>190</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>174</Key>
+          </Keys>
+          <Value>35252634673757457</Value>
+          <ID>0</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>42</ID>
+      <Description>"pointerscan result"</Description>
+      <VariableType>Double</VariableType>
+      <Address>"pepflashplayer.dll"+01CB69C8</Address>
+      <Offsets>
+        <Offset>3D8</Offset>
+        <Offset>10</Offset>
+        <Offset>278</Offset>
+        <Offset>30</Offset>
+        <Offset>1C0</Offset>
+        <Offset>298</Offset>
+        <Offset>188</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>43</ID>
+      <Description>"Color"</Description>
+      <LastState Value="5.85193735584407E18" RealAddress="41F25B953D8"/>
+      <VariableType>Double</VariableType>
+      <Address>"pepflashplayer.dll"+01CB69C8</Address>
+      <Offsets>
+        <Offset>3D8</Offset>
+        <Offset>10</Offset>
+        <Offset>278</Offset>
+        <Offset>30</Offset>
+        <Offset>F8</Offset>
+        <Offset>D8</Offset>
+        <Offset>190</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>47</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Double</VariableType>
+      <Address>"pepflashplayer.dll"+01CAF5C0</Address>
+      <Offsets>
+        <Offset>3D8</Offset>
+        <Offset>10</Offset>
+        <Offset>278</Offset>
+        <Offset>FB0</Offset>
+        <Offset>138</Offset>
+        <Offset>178</Offset>
+        <Offset>38</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry Color="80000008">
+      <Description>Code :mov [rax+50],r8d</Description>
+      <AddressString>5CE5122F4A0</AddressString>
+      <Before>
+        <Byte>E6</Byte>
+        <Byte>48</Byte>
+        <Byte>8B</Byte>
+        <Byte>45</Byte>
+        <Byte>E0</Byte>
+      </Before>
+      <Actual>
+        <Byte>44</Byte>
+        <Byte>89</Byte>
+        <Byte>40</Byte>
+        <Byte>50</Byte>
+      </Actual>
+      <After>
+        <Byte>41</Byte>
+        <Byte>B8</Byte>
+        <Byte>9C</Byte>
+        <Byte>86</Byte>
+        <Byte>E6</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+</CheatTable>
